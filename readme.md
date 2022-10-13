@@ -9,6 +9,7 @@ oasfpiau asfjuhnsdp SDoiuhs
   - subpoint 3.2
     - sub sub point 3.2.1
 
+## Question 3
 
 This is _part_(1) of my _**answer**_(2)
 ![a flowchart diagram](./images/flowchart.jpg)
@@ -31,12 +32,4 @@ p {
 
 ## References
 
-
 (1) [Google](http://www.google.com)
-(2) 
-
-cddsfvzdfdfbgxdfb
-
-# question 2
-
-# question 3
